@@ -1,0 +1,28 @@
+.header-cop {
+    margin-right: 78px;
+}
+
+.badge-large {
+    font-size: 1em; /* Atur ukuran font sesuai kebutuhan */
+}
+
+.table-container {
+    margin-left: 300px;
+    margin-right: 275px;
+}
+
+.custom-table {
+    border: 1px solid black;
+    /* width: 100%; */
+}
+.custom-table td,
+.custom-table th {
+    border: 1px solid black;
+}
+
+.card-img-top {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+}
